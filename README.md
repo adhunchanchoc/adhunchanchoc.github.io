@@ -1,2 +1,2 @@
 # adhunchanchoc.github.io
-This is the root of Github profile page 
+This is the root of GitHub profile page 
